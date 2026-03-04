@@ -1,6 +1,4 @@
-# ML-Projects
-
-# Machine Learning Projects Portfolio
+# Machine Learning Projects
 
 This repository contains implementation of core Machine Learning and Deep Learning algorithms.
 
